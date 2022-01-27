@@ -1,0 +1,4 @@
+#Wed Jan 26 17:52:45 IST 2022
+base.0=/home/admin1/Desktop/flutter-keeper-app-master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

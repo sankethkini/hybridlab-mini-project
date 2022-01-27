@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/bimsina/notes_app/BuildConfig.java
+ com.bimsina.notes_app.BuildConfig
